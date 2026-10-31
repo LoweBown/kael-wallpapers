@@ -18,3 +18,10 @@ Todos los fondos de pantalla y artes visuales de este repositorio están liberad
 - ✅ Puedes descargar y usar los fondos en cualquier sistema operativo.
 - ✅ Puedes compartir la obra y adaptarla libremente.
 - ❗ Lo único requerido es dar el debido crédito al proyecto **Kael Linux / Zolavi** como creador original.
+
+## 🚀 Instalación rápida en la distro
+
+Para instalar automáticamente todos los fondos en el sistema, ejecutá este comando en tu terminal:
+
+```bash
+curl -sSL [https://raw.githubusercontent.com/LoweBown/kael-wallpapers/main/install.sh](https://raw.githubusercontent.com/LoweBown/kael-wallpapers/main/install.sh) | bash
